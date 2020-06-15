@@ -1,27 +1,173 @@
-{ "type": "FeatureCollection",
-      "features":
-          {
-              "type": "Feature",
-              "properties": {
-                  "STATE": "Colorado",
-                  "NAME": "LOMA"
-              },
-              "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                      [
-                          [ 39.213794,-108.757037 ],
-                          [ 39.213474,-108.756906 ],
-                          [ 39.214343,-108.756895 ],
-                          [ 39.214903,-108.756898 ],
-                          [ 39.213481,-108.756896 ],
-                          [ 39.212328,-108.756893 ],
-                          [ 39.211281,-108.756889 ],
-                          [ 39.210501,-108.756912 ],
-                          [ 39.209749,-108.756909 ],
-                          [ 39.213802,-108.757074 ]
-                      ]
-                  ]
-              }
-          }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.756906,
+          39.213474
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100002}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4501}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"base\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.756895,
+          39.214343
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100003}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4501}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"base\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.756898,
+          39.214903
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100004}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4509}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"base\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.756893,
+          39.212328
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100006}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4512}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"weather\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.756889,
+          39.211281
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100007}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4513}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"base\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.756912,
+          39.210501
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100008}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4512}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"base\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.756909,
+          39.209749
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100009}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4507}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"base\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.757074,
+          39.213802
+        ]
+      },
+      "properties": {
+        "0": "{\"uid\":100010}",
+        "1": "{\"Name\":\"Loma Test Site\"}",
+        "2": "{\"Altitude\":4507}",
+        "3": "{\"Material Type\":\"Pine\"}",
+        "4": "{\"Board Type\":\"gateway\"}",
+        "5": "{\"Timezone\":\"US Mountain\"}",
+        "marker-color": "#007e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "type": "Feature"
+    }
+  ]
 }
